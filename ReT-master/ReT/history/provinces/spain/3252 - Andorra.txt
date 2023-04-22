@@ -1,0 +1,6 @@
+owner = CAT
+controller = CAT
+add_core = CAT
+trade_goods = tobacco
+life_rating = 25
+terrain = andorra

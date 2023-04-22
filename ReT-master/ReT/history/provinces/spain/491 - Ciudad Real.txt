@@ -1,0 +1,7 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+add_core = SPR
+trade_goods = mercury
+life_rating = 35
+terrain = ciudadreal

@@ -1,0 +1,7 @@
+owner = SPR
+controller = SPR
+add_core = SPA
+add_core = SPR
+trade_goods = coal
+life_rating = 35
+terrain = valladolid

@@ -1,0 +1,9 @@
+army = {
+	name = "Guardia Real"
+	location = 3249
+	regiment = {
+		name= "Regimiento de infanteria"
+		type = infantry
+		home = 3249
+	}
+}

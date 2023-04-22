@@ -1,0 +1,5 @@
+owner = NAV
+controller = NAV
+add_core = NAV
+life_rating = 30
+terrain = bayonne
