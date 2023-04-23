@@ -1,6 +1,6 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = LUS
+controller = LUS
+add_core = LUS
 trade_goods = timber
 terrain = forest_hills
 life_rating = 35
