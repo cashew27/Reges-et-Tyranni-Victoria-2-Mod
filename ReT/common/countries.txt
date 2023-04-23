@@ -33,10 +33,10 @@ IRE		= "countries/Ireland.txt"
 LUS		= "countries/Lusitania.txt"
 NAV		= "countries/Navarre.txt"
 NET		= "countries/Netherlands.txt"
-##POR		= "countries/Portugal.txt"##
 SCO		= "countries/Scotland.txt"
 SPA		= "countries/Spain.txt"
 SPR		= "countries/SpainRep.txt"
+TOU		= "countries/Toulouse.txt"
 WLL		= "countries/Wallonia.txt"
 
 # Germany

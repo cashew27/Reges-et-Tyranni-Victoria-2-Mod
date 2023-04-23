@@ -1,5 +1,12 @@
 # Country unit colors
 
+# Toulouse
+TOU = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
 # Lusitania
 LUS = {
     color1= { 35  140  130 }
