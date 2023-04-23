@@ -2,7 +2,7 @@
 
 # Lusitania
 LUS = {
-    color1= { 53  165  62 }
+    color1= { 43  162  85 }
     color2= { 255 255 255  }
     color3= { 193 26 14  }
 }
