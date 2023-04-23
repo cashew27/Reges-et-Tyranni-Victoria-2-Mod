@@ -24,6 +24,7 @@ SCA		= "countries/Scandinavia.txt"
 SWE		= "countries/Sweden.txt"
 
 # Western Europe
+AQU		= "countries/Aquitania.txt"
 BEL		= "countries/Belgium.txt"
 CAT		= "countries/Catalonia.txt"
 GLC		= "countries/Galicia.txt"
