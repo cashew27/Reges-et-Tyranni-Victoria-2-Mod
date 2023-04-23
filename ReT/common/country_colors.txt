@@ -1,5 +1,12 @@
 # Country unit colors
 
+# Breizh
+BRE = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
 # Aquitania
 AQU = {
     color1= { 185  122  87 }
