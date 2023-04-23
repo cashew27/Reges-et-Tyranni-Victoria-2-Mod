@@ -2,7 +2,7 @@ color = { 195  195  195 }
 graphical_culture = FrenchGC
 
 party = {
-    name = "BRE_liberal"
+    name = "BRT_liberal"
     start_date = 1830.1.1
     end_date = 1859.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-    name = "BRE_conservative"
+    name = "BRT_conservative"
     start_date = 1830.1.1
     end_date = 2000.1.1
 
@@ -33,7 +33,7 @@ party = {
 
 
 party = {
-    name = "BRE_socialist"
+    name = "BRT_socialist"
     start_date = 1849.1.1
     end_date = 2000.1.1
 
@@ -48,7 +48,7 @@ party = {
 }
 
 party = {
-    name = "BRE_reactionary"
+    name = "BRT_reactionary"
     start_date = 1820.1.1
     end_date = 2000.1.1
 
@@ -63,7 +63,7 @@ party = {
 }
 
 party = {
-    name = "BRE_radical"
+    name = "BRT_radical"
     start_date = 1830.1.1
     end_date = 2000.1.1
 
@@ -78,7 +78,7 @@ party = {
 }
 
 party = {
-    name = "BRE_communist"
+    name = "BRT_communist"
     start_date = 1848.1.1
     end_date = 2000.1.1
 
@@ -93,7 +93,7 @@ party = {
 }
 
 party = {
-    name = "BRE_fascist"
+    name = "BRT_fascist"
     start_date = 1900.1.1
     end_date = 2000.1.1
 

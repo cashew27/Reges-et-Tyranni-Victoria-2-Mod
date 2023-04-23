@@ -8,7 +8,7 @@ literacy = 0.5
 civilized = yes
 prestige = 2
 
-ruling_party = BRE_conservative
+ruling_party = BRT_conservative
 upper_house = {
 	fascist = 0
 	liberal = 70
@@ -52,7 +52,7 @@ practical_steam_engine = 1
 consciousness = 0
 nonstate_consciousness = 0
 
-#oob = "BRE_oob.txt"
+#oob = "BRT_oob.txt"
 
 slavery = no_slavery
 upper_house_composition = appointed

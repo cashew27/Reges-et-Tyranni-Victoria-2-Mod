@@ -1,6 +1,6 @@
-owner = BRE
-controller = BRE
-add_core = BRE
+owner = BRT
+controller = BRT
+add_core = BRT
 trade_goods = sugar
 life_rating = 35
 terrain = rennes
