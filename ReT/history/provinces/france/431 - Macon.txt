@@ -1,6 +1,5 @@
-owner = FRA
-controller = FRA
-add_core = FRA
-add_core = ARP
+owner = LOT
+controller = LOT
+add_core = LOT
 trade_goods = fruit
 life_rating = 30

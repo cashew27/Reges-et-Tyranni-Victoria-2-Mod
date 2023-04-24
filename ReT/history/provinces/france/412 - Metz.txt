@@ -1,7 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
-add_core = ALS
+owner = LOT
+controller = LOT
+add_core = LOT
 trade_goods = iron
 life_rating = 31
 #state_building = {

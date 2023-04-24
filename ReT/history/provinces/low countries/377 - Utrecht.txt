@@ -2,5 +2,5 @@ owner = LOT
 controller = LOT
 add_core = LOT
 trade_goods = grain
-life_rating = 30
-terrain = epinal
+life_rating = 35
+terrain = utrecht

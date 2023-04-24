@@ -1,8 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
-add_core = ALS
-add_core = LOR
+owner = LOT
+controller = LOT
+add_core = LOT
 trade_goods = sulphur
 life_rating = 31
 terrain = colmar
