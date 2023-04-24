@@ -26,6 +26,7 @@ SWE		= "countries/Sweden.txt"
 # Western Europe
 AQU		= "countries/Aquitania.txt"
 BEL		= "countries/Belgium.txt"
+BOU		= "countries/Bourgogne.txt"
 BRT		= "countries/Breizh.txt"
 CAT		= "countries/Catalonia.txt"
 GLC		= "countries/Galicia.txt"
