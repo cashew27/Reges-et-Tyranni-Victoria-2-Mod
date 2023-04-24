@@ -1,0 +1,6 @@
+owner = SRH
+controller = SRH
+add_core = SRH
+trade_goods = iron
+life_rating = 40
+terrain = koblenz

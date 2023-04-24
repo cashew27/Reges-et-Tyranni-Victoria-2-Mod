@@ -1,0 +1,6 @@
+owner = NRH
+controller = NRH
+add_core = NRH
+trade_goods = coal
+life_rating = 40
+terrain = essen

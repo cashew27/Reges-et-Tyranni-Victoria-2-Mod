@@ -1,0 +1,5 @@
+owner = NRH
+controller = NRH
+add_core = NRH
+trade_goods = grain
+life_rating = 40

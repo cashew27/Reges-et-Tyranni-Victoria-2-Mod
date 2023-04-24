@@ -1,0 +1,6 @@
+owner = SRH
+controller = SRH
+add_core = SRH
+trade_goods = fruit
+life_rating = 40
+terrain = kaiserslautern
