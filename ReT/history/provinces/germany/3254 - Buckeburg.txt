@@ -1,0 +1,5 @@
+owner = ING
+controller = ING
+add_core = ING
+trade_goods = fruit
+life_rating = 40

@@ -1,18 +1,18 @@
-capital = 575
+capital = 536
 primary_culture = north_german
 religion = catholic
-government = hms_government
-plurality = 20.0
-nationalvalue = nv_equality
+government = prussian_constitutionalism
+plurality = 15.0
+nationalvalue = nv_liberty
 literacy = 0.5
 civilized = yes
-prestige = 5
+prestige = 2
 
-ruling_party = NRH_liberal
+ruling_party = BRA_conservative
 upper_house = {
 	fascist = 0
-	liberal = 70
-	conservative = 20
+	liberal = 30
+	conservative = 60
 	reactionary = 0
 	anarcho_liberal = 10
 	socialist = 0
@@ -52,7 +52,7 @@ practical_steam_engine = 1
 consciousness = 0
 nonstate_consciousness = 0
 
-#oob = "NRH_oob.txt"
+#oob = "BRA_oob.txt"
 
 slavery = no_slavery
 upper_house_composition = appointed

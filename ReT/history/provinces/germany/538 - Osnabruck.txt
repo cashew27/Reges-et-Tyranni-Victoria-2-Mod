@@ -1,0 +1,6 @@
+owner = ING
+controller = ING
+add_core = ING
+trade_goods = iron
+life_rating = 40
+terrain = osnabruck

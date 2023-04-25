@@ -1,0 +1,26 @@
+#Loth
+substate = {
+	first = LOT
+	second = NRH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = LOT
+	second = SRH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = LOT
+	second = FRI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+#Fra
+vassal = {
+	first = FRA
+	second = BRT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
