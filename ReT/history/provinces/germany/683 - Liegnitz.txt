@@ -1,0 +1,6 @@
+owner = SIL
+controller = SIL
+add_core = SIL
+trade_goods = iron
+life_rating = 40
+terrain = forest_hills

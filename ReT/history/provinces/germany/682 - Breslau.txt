@@ -1,0 +1,16 @@
+owner = SIL
+controller = SIL
+add_core = SIL
+trade_goods = sugar
+life_rating = 40
+terrain = breslau
+state_building = {
+    level = 1
+    building = explosives_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = artillery_factory
+    upgrade = yes
+}

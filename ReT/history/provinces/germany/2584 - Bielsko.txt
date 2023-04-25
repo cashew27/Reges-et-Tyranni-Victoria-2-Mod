@@ -1,0 +1,5 @@
+owner = SIL
+controller = SIL
+add_core = SIL
+trade_goods = coal
+life_rating = 35

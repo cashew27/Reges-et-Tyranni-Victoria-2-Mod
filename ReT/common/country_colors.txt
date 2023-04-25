@@ -1,5 +1,19 @@
 # Country unit colors
 
+#Pomerania
+POM = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Silesia
+SIL = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
 # Westfallia
 WES = {
     color1= { 185  122  87 }
