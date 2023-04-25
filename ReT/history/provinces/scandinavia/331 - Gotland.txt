@@ -1,0 +1,6 @@
+owner = KLM
+controller = KLM
+add_core = KLM
+trade_goods = silk
+life_rating = 35
+terrain = gotland

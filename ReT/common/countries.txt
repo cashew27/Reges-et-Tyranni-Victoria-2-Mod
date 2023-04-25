@@ -19,6 +19,7 @@ KUK		= "countries/Austria-Hungary.txt"
 # Scandinavia
 DEN		= "countries/Denmark.txt"
 FIN		= "countries/Finland.txt"
+KLM 	= "countries/Kalmar.txt"
 NOR		= "countries/Norway.txt"
 SCA		= "countries/Scandinavia.txt"
 SWE		= "countries/Sweden.txt"

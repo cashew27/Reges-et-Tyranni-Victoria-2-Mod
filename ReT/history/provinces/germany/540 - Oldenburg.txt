@@ -1,0 +1,10 @@
+owner = KLM
+controller = KLM
+trade_goods = fish
+life_rating = 40
+#state_building = {
+#    level = 1
+#    building = glass_factory
+#    upgrade = yes
+#}
+terrain = oldenburg

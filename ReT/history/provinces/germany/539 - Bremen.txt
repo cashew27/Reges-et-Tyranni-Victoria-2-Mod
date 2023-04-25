@@ -1,0 +1,6 @@
+owner = KLM
+controller = KLM
+trade_goods = fish
+life_rating = 40
+naval_base = 1
+terrain = bremen

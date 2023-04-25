@@ -1,0 +1,8 @@
+owner = KLM
+controller = KLM
+add_core = KLM
+trade_goods = fish
+life_rating = 42
+terrain = hamburg
+fort = 1
+naval_base = 1

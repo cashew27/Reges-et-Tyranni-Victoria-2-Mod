@@ -1,0 +1,5 @@
+owner = KLM
+controller = KLM
+add_core = KLM
+trade_goods = timber
+life_rating = 35

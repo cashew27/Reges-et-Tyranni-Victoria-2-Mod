@@ -1,0 +1,6 @@
+owner = KLM
+controller = KLM
+add_core = KLM
+trade_goods = timber
+terrain = boreal
+life_rating = 30

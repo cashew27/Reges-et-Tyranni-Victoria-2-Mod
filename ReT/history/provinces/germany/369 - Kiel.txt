@@ -1,0 +1,7 @@
+owner = KLM
+controller = KLM
+add_core = KLM
+trade_goods = cattle
+life_rating = 40
+naval_base = 1
+terrain = kiel
