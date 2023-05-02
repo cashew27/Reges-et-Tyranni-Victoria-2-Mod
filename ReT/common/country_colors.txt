@@ -1,5 +1,12 @@
 # Country unit colors
 
+#Lutici
+LTC = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
 #Pomerania
 POM = {
     color1= { 185  122  87 }

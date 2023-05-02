@@ -1,0 +1,6 @@
+owner = LTC
+controller = LTC
+add_core = LTC
+trade_goods = coal
+terrain = gorlitz
+life_rating = 40
