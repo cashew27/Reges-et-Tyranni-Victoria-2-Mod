@@ -1,0 +1,6 @@
+owner = RMN
+controller = RMN
+add_core = RMN
+trade_goods = sulphur
+terrain = forest_hills
+life_rating = 40

@@ -1,0 +1,6 @@
+owner = FRN
+controller = FRN
+add_core = FRN
+trade_goods = timber
+life_rating = 40
+terrain = aschaffenburg
