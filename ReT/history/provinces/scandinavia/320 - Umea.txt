@@ -2,5 +2,5 @@ owner = KLM
 controller = KLM
 add_core = KLM
 trade_goods = timber
-terrain = umea
+#terrain = umea
 life_rating = 30

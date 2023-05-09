@@ -2,5 +2,5 @@ owner = WES
 controller = WES
 add_core = WES
 trade_goods = coal
-terrain = siegen
+#terrain = siegen
 life_rating = 40

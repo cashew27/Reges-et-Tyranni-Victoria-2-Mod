@@ -2,5 +2,5 @@ owner = FRN
 controller = FRN
 add_core = FRN
 trade_goods = timber
-terrain = heidelberg
+#terrain = heidelberg
 life_rating = 40

@@ -4,4 +4,4 @@ add_core = SPA
 add_core = SPR
 trade_goods = cotton
 life_rating = 35
-terrain = cordova
+#terrain = cordova

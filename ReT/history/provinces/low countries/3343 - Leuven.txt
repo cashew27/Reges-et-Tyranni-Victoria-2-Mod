@@ -3,5 +3,5 @@ controller = LOT
 add_core = LOT
 trade_goods = sugar
 life_rating = 35
-terrain = leuven
+#terrain = leuven
 railroad = 1

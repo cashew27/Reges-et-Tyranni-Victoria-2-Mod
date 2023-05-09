@@ -4,4 +4,4 @@ add_core = SRH
 trade_goods = fruit
 life_rating = 40
 fort = 1
-terrain = mainz
+#terrain = mainz

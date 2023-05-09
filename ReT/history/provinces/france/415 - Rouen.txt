@@ -2,5 +2,5 @@ owner = NRM
 controller = NRM
 add_core = NRM
 trade_goods = fish
-terrain = rouen
+#terrain = rouen
 life_rating = 30

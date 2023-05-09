@@ -3,4 +3,4 @@ controller = LTC
 add_core = LTC
 trade_goods = coal
 life_rating = 40
-terrain = cottbus
+#terrain = cottbus

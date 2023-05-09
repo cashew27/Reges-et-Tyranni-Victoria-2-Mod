@@ -3,5 +3,5 @@ controller = KLM
 add_core = KLM
 add_core = FIN
 trade_goods = fish
-terrain = boreal
+#terrain = boreal
 life_rating = 30

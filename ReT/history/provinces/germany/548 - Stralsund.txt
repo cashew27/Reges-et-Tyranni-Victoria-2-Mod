@@ -2,5 +2,5 @@ owner = POM
 controller = POM
 add_core = POM
 trade_goods = fish
-terrain = stralsund
+#terrain = stralsund
 life_rating = 40

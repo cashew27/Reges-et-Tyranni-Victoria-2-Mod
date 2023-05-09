@@ -3,4 +3,4 @@ controller = BRT
 add_core = BRT
 trade_goods = sugar
 life_rating = 35
-terrain = rennes
+#terrain = rennes

@@ -2,5 +2,5 @@ owner = POM
 controller = POM
 add_core = POM
 trade_goods = fruit
-terrain = greifswald
+#terrain = greifswald
 life_rating = 40

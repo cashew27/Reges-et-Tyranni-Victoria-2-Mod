@@ -3,6 +3,6 @@ controller = SPR
 add_core = SPA
 trade_goods = fish
 life_rating = 35
-terrain = gibraltar
+#terrain = gibraltar
 naval_base = 2
 fort = 1

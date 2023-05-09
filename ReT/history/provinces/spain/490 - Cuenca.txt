@@ -4,4 +4,4 @@ add_core = SPA
 add_core = SPR
 trade_goods = grain
 life_rating = 35
-terrain = cuenca
+#terrain = cuenca
