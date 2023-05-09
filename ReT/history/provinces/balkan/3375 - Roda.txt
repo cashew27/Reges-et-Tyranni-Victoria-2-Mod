@@ -2,5 +2,4 @@ owner = RMN
 controller = RMN
 add_core = RMN
 trade_goods = timber
-terrain = forest_hills
 life_rating = 40

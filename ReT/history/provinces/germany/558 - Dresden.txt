@@ -9,8 +9,3 @@ state_building = {
     building = fabric_factory
     upgrade = yes
 }
-state_building = {
-    level = 1
-    building = charcoal_factory
-    upgrade = yes
-}
