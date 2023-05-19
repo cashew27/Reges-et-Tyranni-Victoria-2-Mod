@@ -3,5 +3,5 @@ controller = MEJ
 add_core = MEJ
 trade_goods = grain
 life_rating = 40
-terrain = mexicocity
+#terrain = mexicocity
 fort = 1

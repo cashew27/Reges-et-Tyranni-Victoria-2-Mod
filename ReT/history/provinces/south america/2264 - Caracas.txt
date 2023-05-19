@@ -3,5 +3,5 @@ controller = GCO
 add_core = GCO
 trade_goods = coffee
 life_rating = 39
-terrain = caracas
+#terrain = caracas
 naval_base = 1

@@ -2,5 +2,5 @@ owner = UCA
 controller = UCA
 add_core = UCA
 trade_goods = sugar
-terrain = hills
+#terrain = hills
 life_rating = 35

@@ -3,5 +3,5 @@ controller = UCA
 add_core = UCA
 trade_goods = fish
 colonial = 2
-terrain = small_island
+#terrain = small_island
 life_rating = 30

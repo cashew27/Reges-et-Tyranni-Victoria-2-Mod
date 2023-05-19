@@ -2,5 +2,5 @@ owner = LTC
 controller = LTC
 add_core = LTC
 trade_goods = grain
-#terrain = neustrelitz
+##terrain = neustrelitz
 life_rating = 40

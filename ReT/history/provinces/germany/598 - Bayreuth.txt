@@ -1,0 +1,6 @@
+owner = BAY
+controller = BAY
+add_core = BAY
+trade_goods = timber
+#terrain = bayreuth
+life_rating = 40

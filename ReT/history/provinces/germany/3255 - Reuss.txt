@@ -2,5 +2,5 @@ owner = RMN
 controller = RMN
 add_core = RMN
 trade_goods = coal
-#terrain = gera
+##terrain = gera
 life_rating = 40

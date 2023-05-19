@@ -3,5 +3,5 @@ controller = MEJ
 add_core = MEJ
 trade_goods = coffee
 life_rating = 35
-terrain = veracruz
+#terrain = veracruz
 naval_base = 1

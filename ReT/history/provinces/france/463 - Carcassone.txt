@@ -2,5 +2,5 @@ owner = TOU
 controller = TOU
 add_core = TOU
 trade_goods = fruit
-#terrain = narbonne
+##terrain = narbonne
 life_rating = 30

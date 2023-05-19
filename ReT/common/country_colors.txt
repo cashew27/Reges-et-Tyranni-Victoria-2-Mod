@@ -1,5 +1,12 @@
 # Country unit colors
 
+#Bayern
+BAY = {
+    color1= { 221  203  2 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
 #Mexico
 MEJ = {
     color1= { 221  203  2 }

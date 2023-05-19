@@ -3,5 +3,5 @@ controller = SPR
 add_core = SPA
 add_core = SPR
 trade_goods = coal
-#terrain = plains
+##terrain = plains
 life_rating = 35

@@ -2,5 +2,5 @@ owner = MEJ
 controller = MEJ
 add_core = MEJ
 trade_goods = coffee
-terrain = villahermosa
+#terrain = villahermosa
 life_rating = 35

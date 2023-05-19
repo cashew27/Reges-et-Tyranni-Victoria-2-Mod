@@ -3,5 +3,5 @@ controller = GLC
 add_core = GLC
 naval_base = 1
 trade_goods = timber
-#terrain = la_coruna
+##terrain = la_coruna
 life_rating = 35

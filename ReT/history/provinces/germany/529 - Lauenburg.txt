@@ -3,4 +3,4 @@ controller = LUB
 add_core = LUB
 trade_goods = grain
 life_rating = 40
-#terrain = lauenburg
+##terrain = lauenburg

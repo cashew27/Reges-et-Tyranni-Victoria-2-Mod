@@ -2,5 +2,5 @@ owner = MEJ
 controller = MEJ
 add_core = MEJ
 trade_goods = cotton
-terrain = tuxtla
+#terrain = tuxtla
 life_rating = 35

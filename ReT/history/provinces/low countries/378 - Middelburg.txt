@@ -4,4 +4,4 @@ add_core = LOT
 trade_goods = sugar
 life_rating = 35
 naval_base = 1
-#terrain = middelburg
+##terrain = middelburg

@@ -4,4 +4,4 @@ add_core = KLM
 trade_goods = cattle
 life_rating = 35
 fort = 1
-#terrain = flensburg
+##terrain = flensburg

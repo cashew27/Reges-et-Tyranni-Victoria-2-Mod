@@ -3,5 +3,5 @@ controller = MEJ
 add_core = MEJ
 trade_goods = grain
 life_rating = 35
-terrain = sandiego
+#terrain = sandiego
 colonial = 2

@@ -1,6 +1,6 @@
 owner = MEJ
 controller = MEJ
-terrain = monterrey
+#terrain = monterrey
 add_core = MEJ
 trade_goods = iron
 life_rating = 35

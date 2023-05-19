@@ -1,0 +1,6 @@
+owner = BAY
+controller = BAY
+add_core = BAY
+#terrain = ingolstadt
+trade_goods = grain
+life_rating = 40

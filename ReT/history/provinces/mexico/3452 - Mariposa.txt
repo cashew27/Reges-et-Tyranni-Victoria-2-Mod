@@ -2,6 +2,6 @@ owner = MEJ
 controller = MEJ
 add_core = MEJ
 trade_goods = fruit
-terrain = mariposa
+#terrain = mariposa
 life_rating = 35
 colonial = 2

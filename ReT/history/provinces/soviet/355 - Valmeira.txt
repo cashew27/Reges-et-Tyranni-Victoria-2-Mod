@@ -2,5 +2,5 @@ owner = KLM
 controller = KLM
 add_core = KLM
 trade_goods = cattle
-#terrain = valmiera
+##terrain = valmiera
 life_rating = 35

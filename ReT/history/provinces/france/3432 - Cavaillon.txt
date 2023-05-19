@@ -2,5 +2,5 @@ owner = BOU
 controller = BOU
 add_core = BOU
 trade_goods = silk
-#terrain = avignon
+##terrain = avignon
 life_rating = 30

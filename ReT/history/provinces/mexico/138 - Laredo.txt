@@ -1,6 +1,6 @@
 owner = MEJ
 controller = MEJ
-terrain = laredo
+#terrain = laredo
 add_core = MEJ
 trade_goods = cattle
 life_rating = 35

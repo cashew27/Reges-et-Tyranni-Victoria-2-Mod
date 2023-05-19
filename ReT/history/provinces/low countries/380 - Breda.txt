@@ -3,4 +3,4 @@ controller = LOT
 add_core = LOT
 trade_goods = cattle
 life_rating = 35
-#terrain = breda
+##terrain = breda

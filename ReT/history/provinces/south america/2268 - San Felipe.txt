@@ -3,5 +3,5 @@ controller = GCO
 add_core = GCO
 add_core = GCO
 trade_goods = sugar
-terrain = san_felipe
+#terrain = san_felipe
 life_rating = 35

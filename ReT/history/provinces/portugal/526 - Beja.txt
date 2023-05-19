@@ -2,6 +2,6 @@ owner = LUS
 controller = LUS
 add_core = LUS
 trade_goods = iron
-#terrain = plains
+##terrain = plains
 life_rating = 35
 naval_base = 1

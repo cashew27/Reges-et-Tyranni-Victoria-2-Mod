@@ -2,5 +2,5 @@ owner = LUS
 controller = LUS
 add_core = LUS
 trade_goods = cattle
-#terrain = plains
+##terrain = plains
 life_rating = 35

@@ -4,5 +4,5 @@ add_core = KLM
 add_core = FIN
 trade_goods = grain
 life_rating = 35
-#terrain = helsinki
+##terrain = helsinki
 naval_base = 1

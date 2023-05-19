@@ -3,5 +3,5 @@ controller = MEJ
 add_core = MEJ
 trade_goods = fruit
 life_rating = 35
-terrain = sacramento
+#terrain = sacramento
 colonial = 2
