@@ -1,7 +1,6 @@
-owner = MEX
-controller = MEX
+owner = MEJ
+controller = MEJ
 terrain = monterrey
-add_core = MEX
-add_core = RGR
+add_core = MEJ
 trade_goods = iron
 life_rating = 35

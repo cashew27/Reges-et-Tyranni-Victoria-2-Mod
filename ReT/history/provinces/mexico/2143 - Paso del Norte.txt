@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
+owner = MEJ
+controller = MEJ
 terrain = ciudadjuarez
-add_core = MEX
+add_core = MEJ
 trade_goods = grain
 life_rating = 35

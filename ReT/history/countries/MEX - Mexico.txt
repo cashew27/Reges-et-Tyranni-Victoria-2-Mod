@@ -41,7 +41,7 @@ colonial_policy = no_colonies
 
 set_country_flag = catholic_country
 
-ruling_party = MEX_conservative
+ruling_party = MEJ_conservative
 last_election = 1835.1.28
 upper_house = {
 	fascist = 0
@@ -77,9 +77,9 @@ dragoon_activation = yes
 consciousness = 2
 nonstate_consciousness = 0
 
-oob = "MEX_oob.txt"
+oob = "MEJ_oob.txt"
 1861.1.1 = {
-	oob = "/1861/MEX_oob.txt"
+	oob = "/1861/MEJ_oob.txt"
 
 	# Political reforms
 	slavery = no_slavery
@@ -93,7 +93,7 @@ oob = "MEX_oob.txt"
 
 	plurality = 60
 	government = democracy
-	ruling_party = MEX_liberal
+	ruling_party = MEJ_liberal
 	literacy = 0.225
 	non_state_culture_literacy = 0.10
 

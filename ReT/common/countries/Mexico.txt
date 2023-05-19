@@ -2,7 +2,7 @@ color = { 89 137 2 }
 graphical_culture = Generic
 
 party = {
-	name = "MEX_conservative"
+	name = "MEJ_conservative"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-	name = "MEX_liberal"
+	name = "MEJ_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-	name = "MEX_anarcho_liberal"
+	name = "MEJ_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -47,7 +47,7 @@ party = {
 }
 
 party = {
-	name = "MEX_conservative_2"
+	name = "MEJ_conservative_2"
 	start_date = 1853.1.1
 	end_date = 2000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-	name = "MEX_liberal_2"
+	name = "MEJ_liberal_2"
 	start_date = 1853.1.1
 	end_date = 2000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-	name = "MEX_liberal_3"
+	name = "MEJ_liberal_3"
 	start_date = 1911.1.1
 	end_date = 2000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-	name = "MEX_conservative_3"
+	name = "MEJ_conservative_3"
 	start_date = 1913.1.1
 	end_date = 2000.1.1
 
@@ -107,7 +107,7 @@ party = {
 }
 
 party = {
-	name = "MEX_liberal_4"
+	name = "MEJ_liberal_4"
 	start_date = 1909.1.1
 	end_date = 2000.1.1
 
@@ -122,7 +122,7 @@ party = {
 }
 
 party = {
-	name = "MEX_reactionary"
+	name = "MEJ_reactionary"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -137,7 +137,7 @@ party = {
 }
 
 party = {
-	name = "MEX_socialist"
+	name = "MEJ_socialist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -152,7 +152,7 @@ party = {
 }
 
 party = {
-	name = "MEX_communist"
+	name = "MEJ_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -167,7 +167,7 @@ party = {
 }
 
 party = {
-	name = "MEX_fascist"
+	name = "MEJ_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 

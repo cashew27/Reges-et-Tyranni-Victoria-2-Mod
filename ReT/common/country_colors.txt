@@ -419,7 +419,7 @@ CLM = {
 }
 
 # Mexico
-MEX = {
+MEJ = {
     color1= { 219 124 139  }
     color2= { 101 102 163  }
     color3= { 69 157 208  }
