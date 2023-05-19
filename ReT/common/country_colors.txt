@@ -1,5 +1,12 @@
 # Country unit colors
 
+#Mexico
+MEJ = {
+    color1= { 221  203  2 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
 #General captaincy of Guatemala
 UCA = {
     color1= { 221  203  2 }
@@ -419,7 +426,7 @@ CLM = {
 }
 
 # Mexico
-MEJ = {
+MEX = {
     color1= { 219 124 139  }
     color2= { 101 102 163  }
     color3= { 69 157 208  }
