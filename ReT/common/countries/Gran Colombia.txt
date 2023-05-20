@@ -2,7 +2,7 @@ color = { 232  210  101 }
 graphical_culture = SouthAmericanGC
 
 party = {
-    name = "CLM_radical"
+    name = "GCO_radical"
     start_date = 1830.1.1
     end_date = 2000.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-    name = "CLM_conservative"
+    name = "GCO_conservative"
     start_date = 1830.1.1
     end_date = 2000.1.1
 
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-    name = "CLM_liberal"
+    name = "GCO_liberal"
     start_date = 1830.1.1
     end_date = 2000.1.1
 
@@ -47,22 +47,7 @@ party = {
 }
 
 party = {
-    name = "CLM_liberal_2"
-    start_date = 1884.1.1
-    end_date = 1898.1.1
-
-    ideology = liberal
-
-    social_policy = no_position_set
-    economic_policy = interventionism
-    trade_policy = free_trade
-    religious_policy = pluralism
-    citizenship_policy = limited_citizenship
-    war_policy = pro_military
-}
-
-party = {
-    name = "CLM_reactionary"
+    name = "GCO_reactionary"
     start_date = 1820.1.1
     end_date = 2000.1.1
 
@@ -77,7 +62,7 @@ party = {
 }
 
 party = {
-    name = "CLM_socialist"
+    name = "GCO_socialist"
     start_date = 1848.1.1
     end_date = 2000.1.1
 
@@ -92,7 +77,7 @@ party = {
 }
 
 party = {
-    name = "CLM_communist"
+    name = "GCO_communist"
     start_date = 1848.1.1
     end_date = 2000.1.1
 
@@ -107,7 +92,7 @@ party = {
 }
 
 party = {
-    name = "CLM_fascist"
+    name = "GCO_fascist"
     start_date = 1900.1.1
     end_date = 2000.1.1
 
