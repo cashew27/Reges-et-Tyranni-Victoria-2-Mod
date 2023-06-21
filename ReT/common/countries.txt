@@ -159,6 +159,7 @@ GEO		="countries/Georgia.txt"
 HDJ		="countries/Hedjaz.txt"
 IRQ		="countries/Iraq.txt"
 KHI		="countries/Khiva.txt"
+KOJ 	="countries/Kingdom of Jerusalem.txt"
 KOK		="countries/Kokand.txt"
 MUG		="countries/Mughalistan.txt"
 NEJ		="countries/Nejd.txt"
@@ -283,7 +284,6 @@ GCO		="countries/Gran Colombia.txt"
 
 ##HoD
 JAN 	= "countries/JanMayen.txt"
-KOJ 	= "countries/Kingdom of Jerusalem.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
