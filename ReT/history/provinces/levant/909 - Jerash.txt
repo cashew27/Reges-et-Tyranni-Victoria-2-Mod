@@ -1,0 +1,6 @@
+owner = KOJ
+controller = KOJ
+add_core = KOJ
+trade_goods = grain
+life_rating = 31
+terrain = semidesert

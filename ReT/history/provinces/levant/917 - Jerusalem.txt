@@ -1,0 +1,6 @@
+owner = KOJ
+add_core = KOJ
+controller = KOJ
+trade_goods = grain
+life_rating = 35
+terrain = jerusalem

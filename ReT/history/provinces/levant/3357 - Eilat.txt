@@ -1,0 +1,6 @@
+owner = KOJ
+controller = KOJ
+add_core = KOJ
+trade_goods = wool
+life_rating = 10
+terrain = desert
