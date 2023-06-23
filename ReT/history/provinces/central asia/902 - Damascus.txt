@@ -3,4 +3,3 @@ controller = COT
 add_core = COT
 trade_goods = grain
 life_rating = 35
-terrain = damascus

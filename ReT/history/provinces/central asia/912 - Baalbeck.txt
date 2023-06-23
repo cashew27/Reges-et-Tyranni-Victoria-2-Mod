@@ -1,8 +1,5 @@
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = TUR
-add_core = LBN
+owner = COT
+controller = COT
+add_core = COT
 trade_goods = silk
 life_rating = 35
-terrain = baalbeck

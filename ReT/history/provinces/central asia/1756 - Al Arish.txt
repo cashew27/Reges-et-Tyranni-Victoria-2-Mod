@@ -4,4 +4,3 @@ add_core = KOJ
  
 trade_goods = fruit
 life_rating = 20
-terrain = coastal_desert
