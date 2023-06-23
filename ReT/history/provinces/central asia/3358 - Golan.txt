@@ -1,0 +1,6 @@
+owner = KOJ
+controller = KOJ
+add_core = KOJ
+trade_goods = fruit
+life_rating = 35
+terrain = dryhills

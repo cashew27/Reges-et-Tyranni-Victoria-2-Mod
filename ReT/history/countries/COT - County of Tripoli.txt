@@ -1,18 +1,18 @@
-capital = 917
+capital = 914
 primary_culture = french
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 20.4
+literacy = 28.9
 civilized = yes
 
-ruling_party = KOJ_reactionary
+ruling_party = COT_reactionary
 upper_house = {
 	fascist = 0
-	liberal = 3
-	conservative = 11
-	reactionary = 86
+	liberal = 5
+	conservative = 13
+	reactionary = 82
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
@@ -22,7 +22,7 @@ upper_house = {
 consciousness = 0
 nonstate_consciousness = 0
 
-#oob = "KOJ_oob.txt"
+#oob = "COT_oob.txt"
 
 slavery = no_slavery
 upper_house_composition = appointed
