@@ -1,5 +1,0 @@
-owner = COT
-controller = COT
-add_core = COT
-trade_goods = iron
-life_rating = 35
