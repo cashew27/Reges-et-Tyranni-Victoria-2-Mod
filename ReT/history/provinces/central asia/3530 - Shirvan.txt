@@ -1,0 +1,5 @@
+owner = COE
+controller = COE
+add_core = COE
+trade_goods = wool
+life_rating = 35
