@@ -1,5 +1,5 @@
 owner = POA
 controller = POA
 add_core = POA
-trade_goods = grain
+trade_goods = tobacco
 life_rating = 35

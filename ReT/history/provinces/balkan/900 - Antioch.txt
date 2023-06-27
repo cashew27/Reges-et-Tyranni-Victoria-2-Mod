@@ -1,5 +1,6 @@
 owner = POA
 controller = POA
 add_core = POA
-trade_goods = grain
+trade_goods = fruit
 life_rating = 35
+naval_base = 1
