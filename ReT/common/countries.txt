@@ -166,7 +166,7 @@ MUG		="countries/Mughalistan.txt"
 NEJ		="countries/Nejd.txt"
 OMA		="countries/Oman.txt"
 PER		="countries/Persia.txt"
-POA		="countries/Principality of Antioch.txt"
+POA	="countries/Principality of Antioch.txt"
 YEM		="countries/Yemen.txt"
 
 # India
