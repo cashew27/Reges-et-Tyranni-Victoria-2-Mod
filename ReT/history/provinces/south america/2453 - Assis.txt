@@ -1,0 +1,7 @@
+trade_goods = timber
+life_rating = 28
+ state_building = {
+	level = 1
+    building = charcoal_factory
+    upgrade = yes
+}

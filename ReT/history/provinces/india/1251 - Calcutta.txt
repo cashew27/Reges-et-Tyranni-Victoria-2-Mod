@@ -1,0 +1,5 @@
+  trade_goods = dye
+life_rating = 38
+colonial = 2
+ fort = 1
+naval_base = 2

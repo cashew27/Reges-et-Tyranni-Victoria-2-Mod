@@ -1,0 +1,3 @@
+ trade_goods = silk
+life_rating = 32
+ 

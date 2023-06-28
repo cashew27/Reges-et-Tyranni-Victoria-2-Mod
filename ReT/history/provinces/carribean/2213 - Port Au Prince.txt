@@ -1,0 +1,3 @@
+ trade_goods = coffee
+ naval_base = 1
+life_rating = 35
