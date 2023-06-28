@@ -238,86 +238,6 @@ NAV = {
     color3= { 154 69 116  }
 }
 
-# Sweden
-SWE = {
-    color1= { 62 122 189  }
-    color2= { 255 255 255  }
-    color3= { 193 26 14  }
-}
-
-# Denmark FIXED (dark-blue coats, blue trousers and hats)
-DEN = {
-color1= { 69 80 169 }
-color2= { 69 157 208 }
-color3= { 137 183 124 }
-}
-
-
-# Finland
-FIN = {
-    color1= { 182 134 100  }
-    color2= { 39 108 140  }
-    color3= { 112 150 105  }
-}
-
-# Norway
-NOR = {
-    color1= { 117 165 188  }
-    color2= { 202 112 85  }
-    color3= { 104 137 140  }
-}
-
-# Albania
-ALB = {
-    color1= { 181 72 106  }
-    color2= { 161 126 128  }
-    color3= { 131 101 85  }
-}
- 
-# Awadh FIXED
-AWA = {
-    color1= { 215 59 53  }
-    color2= { 255 216 85  }
-    color3= { 117 127 174  }
-}
-
-# Belgium FIXED
-BEL	 = {
-    color1= { 244 56 49  }
-    color2= { 248 199 67  }
-    color3= { 107 170 77  }
-}
-
-
-# Bosnia
-BOS = {
-    color1= { 240 167 130  }
-    color2= { 126 203 120  }
-    color3= { 107 170 77  }
-}
-
-
-# Bulgaria
-BUL = {
-    color1= { 140 207 116  }
-    color2= { 255 255 255  }
-    color3= { 83 149 105  }
-}
-
-# Croatia
-CRO = {
-    color1= { 174 227 95  }
-    color2= { 129 177 125  }
-    color3= { 166 189 199  }
-}
-
-# Cyprus
-CYP = {
-    color1= { 78 75 39  }
-    color2= { 236 159 89  }
-    color3= { 80 79 88  }
-}
-
 # Frankfurt FIXED
 FRM = {
     color1= { 244 56 49  }
@@ -325,216 +245,11 @@ FRM = {
     color3= { 80 79 88  }
 }
 
-# Greece FIXED
-GRE = {
-    color1= { 69 80 169  }
-    color2= { 255 255 255  }
-    color3= { 197 92 106  }
-}
-
-# Moldavia FIXED
-MOL = {
-    color1= { 69 80 169  }
-    color2= { 244 56 49  }
-    color3= { 69 157 208  }
-}
-
-# Montenegro FIXED
-MON = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 184 193 89  }
-}
-
-# Serbia FIXED
-SER = {
-    color1= { 244 56 49  }
-    color2= { 69 80 169  }
-    color3= { 210 106 47  }
-}
-
-# Wallachia FIXED
-WAL = {
-    color1= { 248 199 67  }
-    color2= { 244 56 49  }	
-    color3= { 187 79 86  }
-}
-
-# Hungary
-HUN = {
-    color1= { 152 85 92  }
-    color2= { 197 92 106  }
-    color3= { 119 151 122  }
-}
-
-# The Ottomans
-TUR = {
-    color1= { 126 203 120  }
-    color2= { 255 255 255  }
-    color3= { 135 104 85  }
-}
-
-
-# United Kingdom
-ENG = {
-    color1= { 193 26 14  }
-    color2= { 99 137 153  }
-    color3= { 83 149 105  }
-}
-
-# Ireland
-IRE = {
-    color1= { 112 150 105  }
-    color2= { 136 157 23  }
-    color3= { 117 127 174  }
-}
-
-# Ionian Islands FIXED
-ION = {
-    color1= { 69 80 169  }
-    color2= { 248 199 67  }
-    color3= { 131 101 85  }
-}
-
-# Scotland
-SCO = {
-    color1= { 199 175 12  }
-    color2= { 202 112 85  }
-    color3= { 104 137 140  }
-}
-
-# Brazil
-BRZ = {
-    color1= { 50 85 47  }
-    color2= { 162 145 29  }
-    color3= { 183 176 194  }
-}
-
-# Bolivia
-BOL = {
-    color1= { 66 133 63  }
-    color2= { 151 41 43  }
-    color3= { 183 176 194  }
-}
-
-# Canada
-CAN = {
-    color1= { 94 117 55  }
-    color2= { 255 87 127  }
-    color3= { 99 137 153  }
-}
-
-# Chile
-CHL = {
-    color1= { 143 42 39  }
-    color2= { 66 66 121  }
-    color3= { 80 79 88  }
-}
-
-# Paraguay
-PRG = {
-    color1= { 146 58 35  }
-    color2= { 66 66 121  }
-    color3= { 80 79 88  }
-}
-
-
-# Argentina
-ARG = {
-	color1= { 112 145 181  }
-    color2= { 255 255 255  }
-    color3= { 80 79 88  }
-}	
-	
-# Uruguay
-URU = {
-    color1= { 68 79 141  }
-    color2= { 167 157 94  }
-    color3= { 80 79 88  }
-}	
-	
-# Venezuela
-VNZ = {
-    color1= { 162 145 29  }
-    color2= { 66 66 121  }
-    color3= { 197 92 106  }
-}	
-	
-# Ecuador
-ECU = {
-    color1= { 97 144 157  }
-    color2= { 255 255 255  }
-    color3= { 197 92 106  }
-}		
-	
-# Colombia
-CLM = {
-    color1= { 143 42 39  }
-    color2= { 162 145 29  }  
-    color3= { 197 92 106  }
-}
-
 # Mexico
 MEX = {
     color1= { 219 124 139  }
     color2= { 101 102 163  }
     color3= { 69 157 208  }
-}
-
-# Mewar
-MEW = {
-    color1= { 157 85 255  }
-    color2= { 255 216 85  }
-    color3= { 69 157 208  }
-}
-
-# Peru
-PEU = {
-    color1= { 124 140 162  }
-    color2= { 144 52 53  }
-    color3= { 184 193 89  }
-}
-
-# Quebec
-QUE = {
-    color1= { 194 140 86  }
-    color2= { 219 124 139  }
-    color3= { 17 16 203  }
-}
-
-# USA
-USA = {
-    color1= { 69 157 208  }
-    color2= { 124 140 162  }
-    color3= { 137 183 124  }
-}
-
-# Lithuania
-LIT = {
-    color1= { 154 69 116  }
-    color2= { 255 255 255  }
-    color3= { 210 106 47  }
-}
-
-# Liberia
-LIB = {
-    color1= { 36 84 245  }
-    color2= { 255 255 255  }
-    color3= { 210 106 47  }
-}
-
-# Poland
-POL = {
-    color1= { 197 92 106  }
-    color2= { 69 157 208  }
-    color3= { 187 79 86  }
-}
-
-# Prussia
-PRU = {
-    color1= { 80 79 88  }
-    color2= { 154 69 116  }
-    color3= { 255 255 255  }
 }
 
 # France
@@ -565,13 +280,6 @@ BAV = {
     color3= { 187 79 86  }
 }
 
-# Bohemia
-BOH = {
-    color1= { 161 139 40  }
-    color2= { 194 140 86  }
-    color3= { 122 179 97  }
-}
-
 # Braunschweig FIXED
 BRA = {
     color1= { 103 123 204  }
@@ -579,12 +287,6 @@ BRA = {
     color3= { 210 106 47  }
 }
 
-# Bremen FIXED
-BRE = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 137 183 124  }
-}
 
 # Germany
 GER = {
@@ -600,31 +302,10 @@ AUS = {
     color3= { 17 16 203  }
 }
 
-# Hamburg FIXED
-HAM = {
-    color1= { 244 56 49  }
-    color2= { 87 187 128  }
-    color3= { 69 157 208  }
-}
-
-# Hannover FIXED
-HAN = {
-    color1= { 248 199 67  }
-    color2= { 255 255 255  }
-    color3= { 154 69 116  }
-}
-
-# Hesse-Darmstadt FIXED
+# Hesse FIXED
 HES = {
     color1= { 255 255 255  }
     color2= { 244 56 49  }
-    color3= { 195 149 155  }
-}
-
-# Hesse-Kassel FIXED
-HEK = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
     color3= { 195 149 155  }
 }
 
@@ -632,13 +313,6 @@ HEK = {
 MEC = {
     color1= { 248 199 67  }
     color2= { 244 56 49  }
-    color3= { 112 150 105  }
-}
-
-# Saxe-Meiningen FIXED
-MEI = {
-    color1= { 134 224 126  }
-    color2= { 255 255 255  }
     color3= { 112 150 105  }
 }
 
@@ -654,27 +328,6 @@ SAX = {
     color1= { 255 255 255  }
     color2= { 134 224 126  }
     color3= { 117 127 174  }
-}
-
-# Saxe-Weimar FIXED
-WEI = {
-    color1= { 134 224 126  }
-    color2= { 100 100 100  }
-    color3= { 117 127 174  }
-}
-
-# Saxe-Coburg-Gotha FIXED
-COB = {
-    color1= { 134 224 126  }
-    color2= { 248 199 67  }
-    color3= { 117 127 174  }
-}
-
-# Switzerland FIXED
-SWI = {
-    color1= { 255 255 255  }
-    color2= { 244 56 49  }
-    color3= { 107 170 77  }
 }
 
 # Wurttemberg
@@ -696,119 +349,6 @@ NAS = {
     color1= { 80 125 196  }
     color2= { 215 131 0  }
     color3= { 17 16 203  }
-}
-
-# Portugal FIXED
-POR = {
-
-    color1= { 103 123 204  }
-    color2= { 255 255 255  }
-    color3= { 69 157 208  }
-}
-
-# Italy
-ITA = {
-    color1= { 255 255 255  }
-    color2= { 152 85 92  }
-    color3= { 80 79 88  }
-}
-
-# Manhattan Commune
-MAN = {
-    color1= { 191 83 101  }
-    color2= { 126 203 120  }
-    color3= { 99 137 153  }
-}
-
-# Modena
-MOD = {
-    color1= { 241 252 151  }
-    color2= { 129 177 125  }
-    color3= { 193 26 14  }
-}
-
-# The Papal State FIXED
-PAP = {
-    color1= { 248 199 67  }
-    color2= { 255 255 255  }
-    color3= { 48 164 51  }
-}
-
-# Parma FIXED
-PAR = {
-    color1= { 255 255 255  }
-	color2= { 248 199 67  }
-    color3= { 112 150 105  }
-}
-
-# Sardinia FIXED
-SAR = {
-    color1= { 69 80 169  }
-    color2= { 244 56 49  }
-    color3= { 104 137 140  }
-}
-
-# Two Sicilies
-SIC = {
-    color1= { 134 224 126  }
-    color2= { 255 255 255  }
-    color3= { 131 101 85  }
-}
-
-# Siebenbürgen
-SIE = {
-    color1= { 75 111 205  }
-    color2= { 124 140 162  }
-    color3= { 117 127 174  }
-}
-
-# Tuscany FIXED 
-TUS = {
-    color1= { 217 80 75  }
-    color2= { 255 255 255  }
-    color3= { 107 170 77  }
-}
-
-# Venice
-VEN = {
-    color1= { 54 167 156  }
-    color2= { 69 157 208  }
-    color3= { 166 189 199  }
-}
-
-# Flanders
-FLA = {
-    color1= { 43 141 172  }
-    color2= { 195 149 155  }
-    color3= { 134 166 117  }
-}
-
-# Haiti
-HAI = {
-    color1= { 43 42 130  }
-    color2= { 99 137 153  }
-    color3= { 187 79 86  }
-}
-
-# Holstein FIXED
-HOL = {
-    color1= { 69 80 169  }
-    color2= { 244 56 49  }
-    color3= { 122 179 97  }
-}
-
-# Lippe-Detmold FIXED
-LIP = {
-    color1= { 248 199 67  }
-    color2= { 244 56 49  }	
-    color3= { 255 255 255  }
-}
-
-# Luxembourg FIXED
-LUX = {
-    color1= { 122 182 242 }
-    color2= { 255 255 255  }
-    color3= { 132 11 11  }
 }
 
 # Lubeck FIXED
