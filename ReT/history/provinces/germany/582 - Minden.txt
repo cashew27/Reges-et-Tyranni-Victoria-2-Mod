@@ -2,5 +2,4 @@ owner = ING
 controller = ING
 add_core = ING
 trade_goods = cattle
-##terrain = bielefeld
-life_rating = 40
+ life_rating = 40

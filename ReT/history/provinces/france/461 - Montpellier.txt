@@ -1,6 +1,5 @@
 owner = TOU
 controller = TOU
 add_core = TOU
-##terrain = montpellier
-trade_goods = cattle
+ trade_goods = cattle
 life_rating = 30

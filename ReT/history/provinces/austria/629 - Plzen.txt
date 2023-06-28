@@ -3,4 +3,3 @@ controller = BAY
 add_core = BAY
 trade_goods = coal
 life_rating = 35
-#terrain = plzen

@@ -1,6 +1,5 @@
 owner = FRA
 controller = FRA
 add_core = FRA
-##terrain = clermont_ferrand
-trade_goods = coal
+ trade_goods = coal
 life_rating = 30

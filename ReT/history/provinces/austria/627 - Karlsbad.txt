@@ -2,5 +2,4 @@ owner = BAY
 controller = BAY
 add_core = BAY
 trade_goods = iron
-#terrain = karlsbad
 life_rating = 35

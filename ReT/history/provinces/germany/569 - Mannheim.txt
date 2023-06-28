@@ -3,4 +3,4 @@ controller = BAY
 add_core = BAY
 trade_goods = tobacco
 life_rating = 40
-#terrain = mannheim
+ 

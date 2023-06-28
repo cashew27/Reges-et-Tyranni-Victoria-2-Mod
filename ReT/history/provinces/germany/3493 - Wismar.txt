@@ -2,5 +2,4 @@ owner = LUB
 controller = LUB
 add_core = LUB
 trade_goods = grain
-##terrain = wismar
-life_rating = 40
+ life_rating = 40

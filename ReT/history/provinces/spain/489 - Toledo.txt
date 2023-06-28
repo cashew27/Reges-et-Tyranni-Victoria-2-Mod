@@ -4,4 +4,4 @@ add_core = SPA
 add_core = SPR
 trade_goods = cattle
 life_rating = 35
-##terrain = toledo
+ 

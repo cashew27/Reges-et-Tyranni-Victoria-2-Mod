@@ -2,5 +2,4 @@ owner = GCO
 controller = GCO
 add_core = GCO
 trade_goods = gems
-#terrain = jungle_mountains
-life_rating = 31
+ life_rating = 31

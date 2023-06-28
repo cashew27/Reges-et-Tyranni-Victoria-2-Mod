@@ -5,4 +5,4 @@ add_core = CAT
 add_core = SPR
 trade_goods = fruit
 life_rating = 35
-##terrain = benidorm
+ 

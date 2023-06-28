@@ -2,6 +2,5 @@ owner = MEJ
 controller = MEJ
 add_core = MEJ
 trade_goods = grain
-#terrain = santa_barbara
-life_rating = 35
+ life_rating = 35
 colonial = 2

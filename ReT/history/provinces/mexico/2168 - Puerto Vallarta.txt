@@ -3,4 +3,4 @@ controller = MEJ
 add_core = MEJ
 trade_goods = iron
 life_rating = 35
-#terrain = puertovallarta
+ 

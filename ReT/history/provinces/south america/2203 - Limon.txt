@@ -2,5 +2,4 @@ owner = UCA
 controller = UCA
 add_core = UCA
 trade_goods = coffee
-terrain = jungle_farmland
-life_rating = 33
+ life_rating = 33

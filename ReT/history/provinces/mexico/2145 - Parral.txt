@@ -2,5 +2,4 @@ owner = MEJ
 controller = MEJ
 add_core = MEJ
 trade_goods = precious_metal
-#terrain = montane_forest
-life_rating = 35
+ life_rating = 35

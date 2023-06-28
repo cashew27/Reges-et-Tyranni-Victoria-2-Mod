@@ -3,6 +3,5 @@ controller = KLM
 add_core = KLM
 trade_goods = grain
 life_rating = 40
-##terrain = reval
-fort = 1
+ fort = 1
 naval_base = 2
