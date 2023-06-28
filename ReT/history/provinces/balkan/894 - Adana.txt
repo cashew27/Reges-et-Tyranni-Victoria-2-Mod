@@ -1,0 +1,5 @@
+owner = AKC
+controller = AKC
+add_core = AKC
+trade_goods = cotton
+life_rating = 35
