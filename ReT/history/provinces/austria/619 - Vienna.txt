@@ -1,4 +1,7 @@
- trade_goods = grain
+owner = AUS
+controller = AUS
+add_core = AUS
+trade_goods = grain
 life_rating = 35
  fort = 1
 state_building = {
@@ -6,8 +9,8 @@ state_building = {
     building = fabric_factory
     upgrade = yes
 }
-#state_building = {
-#    level = 1
-#    building = small_arms_factory
-#    upgrade = yes
-#}
+state_building = {
+    level = 1
+    building = small_arms_factory
+	upgrade = yes
+}
