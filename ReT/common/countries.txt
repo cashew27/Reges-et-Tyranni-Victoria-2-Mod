@@ -68,7 +68,7 @@ POA		="countries/Principality of Antioch.txt"
 # Eastern Asia
 
 # North America
-MEJ		="countries/Mexican Republic.txt"
+MEX		="countries/Mexican Republic.txt"
 UCA		="countries/United States of Central America.txt"
 
 # South America
