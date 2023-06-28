@@ -1,3 +1,6 @@
- trade_goods = cattle
+owner = GCO
+controller = GCO
+add_core = GCO
+trade_goods = cattle
 life_rating = 39
  

@@ -1,2 +1,5 @@
- trade_goods = gold
+owner = GCO
+controller = GCO
+add_core = GCO
+trade_goods = gold
 life_rating = 33

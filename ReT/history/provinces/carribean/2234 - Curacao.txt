@@ -1,4 +1,5 @@
- trade_goods = tobacco
+owner = GCO
+controller = GCO
+add_core = GCO
+trade_goods = tobacco
 life_rating = 35
-colonial = 2
- 

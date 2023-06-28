@@ -1,2 +1,5 @@
- trade_goods = wool
- life_rating = 34
+owner = GCO
+controller = GCO
+add_core = GCO
+trade_goods = wool
+life_rating = 34
