@@ -1,6 +1,6 @@
-owner = BAY
-controller = BAY
-add_core = BAY
+owner = BAV
+controller = BAV
+add_core = BAV
 trade_goods = fish
 life_rating = 40
  

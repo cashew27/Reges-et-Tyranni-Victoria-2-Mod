@@ -1,7 +1,9 @@
- trade_goods = iron
+owner = ALP
+controller = ALP
+add_core = ALP
+trade_goods = iron
 life_rating = 34
- fort = 1
-
+fort = 1
 party_loyalty = {
     ideology = conservative
     loyalty_value = 1

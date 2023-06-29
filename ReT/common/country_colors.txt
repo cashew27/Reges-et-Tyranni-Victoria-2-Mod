@@ -1,5 +1,12 @@
 # Country unit colors
 
+#Alpine Federation
+ALP = {
+    color1= { 226  222  225 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
 #Kingdom of Jerusalem
 KOJ = {
     color1= { 226  222  225 }
@@ -42,8 +49,8 @@ COT = {
     color3= { 193 26 14  }
 }
 
-#Bayern
-BAY = {
+#Bavaria
+BAV = {
     color1= { 221  203  2 }
     color2= { 255 255 255  }
     color3= { 193 26 14  }

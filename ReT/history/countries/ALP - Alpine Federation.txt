@@ -1,10 +1,10 @@
-capital = 599
+capital = 603
 primary_culture = south_german
 religion = catholic
-government = absolute_monarchy
+government = republic
 plurality = 15.0
 nationalvalue = nv_order
-literacy = 0.7
+literacy = 0.6
 civilized = yes
 prestige = 5
 
@@ -27,7 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = BAY_conservative_2
+ruling_party = ALP_conservative
 upper_house = {
 	fascist = 0
 	liberal = 35
@@ -72,4 +72,4 @@ schools = industrial_tech_school
 consciousness = 2
 nonstate_consciousness = 0
 
-oob = "BAY_oob.txt"
+oob = "ALP_oob.txt"

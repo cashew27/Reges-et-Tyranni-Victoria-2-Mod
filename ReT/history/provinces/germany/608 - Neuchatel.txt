@@ -1,5 +1,8 @@
-    trade_goods = grain
- life_rating = 32
+owner = ALP
+controller = ALP
+add_core = ALP
+trade_goods = grain
+life_rating = 32
 party_loyalty = {
     ideology = conservative
     loyalty_value = 1
