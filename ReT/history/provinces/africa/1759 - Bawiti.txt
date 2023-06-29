@@ -1,0 +1,5 @@
+owner = KHM
+controller = KHM
+add_core =KHM
+trade_goods = wool
+life_rating = 10

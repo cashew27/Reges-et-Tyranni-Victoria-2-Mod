@@ -1,0 +1,6 @@
+owner = KHM
+controller = KHM
+add_core = KHM
+
+trade_goods = cotton
+life_rating = 40
