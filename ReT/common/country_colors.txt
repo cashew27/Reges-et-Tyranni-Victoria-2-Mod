@@ -1,7 +1,7 @@
 # Country unit colors
 
 #Khemet
-KHE = {
+KHM = {
     color1= { 226  222  225 }
     color2= { 255 255 255  }
     color3= { 193 26 14  }
