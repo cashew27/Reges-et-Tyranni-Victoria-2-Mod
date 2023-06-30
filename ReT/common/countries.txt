@@ -1,10 +1,10 @@
 #Please keep tags sorted alphabetically when you add/remove country tags
 
 # Special countries...
-REB 	        = "countries/rebels.txt"
+REB		= "countries/rebels.txt"
 
 # Scandinavia
-KLM 	        = "countries/Kalmar.txt"
+KLM		= "countries/Kalmar.txt"
 
 # Western Europe
 AQU		= "countries/Aquitania.txt"
@@ -31,7 +31,7 @@ BAY		= "countries/Bavaria.txt"
 BRA		= "countries/Brunswick.txt"
 BRN		= "countries/Brandenburg.txt"
 FRM		= "countries/Frankfurt.txt"
-FRN 	        = "countries/Franconia.txt"
+FRN		= "countries/Franconia.txt"
 GER		= "countries/Germany.txt"
 HES		= "countries/Hesse.txt"
 ING		= "countries/Ingria.txt"
@@ -45,7 +45,7 @@ POM		= "countries/Pomerania.txt"
 RMN		= "countries/Romani.txt"
 SAX		= "countries/Saxony.txt"
 SIL		= "countries/Silesia.txt"
-WES 	        = "countries/Westfallia.txt"
+WES		= "countries/Westfallia.txt"
 WUR		= "countries/Wurttemberg.txt"
 
 # Italy
@@ -59,9 +59,9 @@ KHM		="countries/Kingdom of Khemet.txt"
 
 # Cental Asia
 AKC		="countries/Armenian Kingdom of Cilicia.txt"
-COE 	        ="countries/County of Edessa.txt"
-COT 	        ="countries/County of Tripoli.txt"
-KOJ 	        ="countries/Kingdom of Jerusalem.txt"
+COE		="countries/County of Edessa.txt"
+COT 	="countries/County of Tripoli.txt"
+KOJ 	="countries/Kingdom of Jerusalem.txt"
 POA		="countries/Principality of Antioch.txt"
 
 # India
