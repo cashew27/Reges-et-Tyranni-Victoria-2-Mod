@@ -1,12 +1,5 @@
 # Country unit colors
 
-#Kingdom of Khemet
-KHE = {
-    color1= { 226  222  225 }
-    color2= { 255 255 255  }
-    color3= { 193 26 14  }
-}
-
 #Alpine Federation
 ALP = {
     color1= { 226  222  225 }
@@ -17,13 +10,6 @@ ALP = {
 #Kingdom of Jerusalem
 KOJ = {
     color1= { 226  222  225 }
-    color2= { 255 255 255  }
-    color3= { 193 26 14  }
-}
-
-#Kingdom of Khemet
-KHM = {
-    color1= { 48  62  232 }
     color2= { 255 255 255  }
     color3= { 193 26 14  }
 }

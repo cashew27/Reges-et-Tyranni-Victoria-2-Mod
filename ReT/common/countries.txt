@@ -55,7 +55,6 @@ WUR		= "countries/Wurttemberg.txt"
 # Balkans
 
 # Africa
-KHM             ="countries/Kingdom of Khemet.txt"
 
 # Cental Asia
 AKC		="countries/Armenian Kingdom of Cilicia.txt"
