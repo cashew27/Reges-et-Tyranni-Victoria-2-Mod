@@ -3,8 +3,3 @@ controller = KHM
 add_core = KHM
 trade_goods = cotton
 life_rating = 45
-state_building = {
-    level = 1
-    building = fabric_factory
-    upgrade = yes
-}

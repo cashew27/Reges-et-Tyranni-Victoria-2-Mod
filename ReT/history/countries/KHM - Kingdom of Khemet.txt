@@ -4,8 +4,8 @@ religion = coptic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.21
-civilized = yes
+literacy = 0.16
+civilized = no
 
 ruling_party = KHM_reactionary
 upper_house = {
