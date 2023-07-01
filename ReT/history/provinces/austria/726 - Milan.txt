@@ -1,0 +1,8 @@
+  trade_goods = cotton
+life_rating = 45
+fort = 1
+ #state_building = {
+#    level = 1
+#    building = fabric_factory
+#    upgrade = yes
+#}

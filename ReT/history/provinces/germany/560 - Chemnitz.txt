@@ -1,6 +1,5 @@
 owner = SAX
 controller = SAX
 add_core = SAX
-##terrain = chemnitz
-trade_goods = iron
+ trade_goods = iron
 life_rating = 40

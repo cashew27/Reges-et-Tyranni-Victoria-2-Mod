@@ -1,0 +1,4 @@
+ trade_goods = sugar
+life_rating = 30
+colonial = 2
+ 

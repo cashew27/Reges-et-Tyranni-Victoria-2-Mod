@@ -8,3 +8,4 @@ state_building = {
 }
 trade_goods = cotton
 life_rating = 45
+

@@ -3,4 +3,4 @@ controller = CAT
 add_core = CAT
 trade_goods = iron
 life_rating = 35
-##terrain = gerona
+ 

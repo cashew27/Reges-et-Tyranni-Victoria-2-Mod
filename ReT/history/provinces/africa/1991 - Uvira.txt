@@ -1,0 +1,2 @@
+trade_goods = slave_trading
+ life_rating = 10

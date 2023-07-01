@@ -1,6 +1,6 @@
-owner = MEJ
-controller = MEJ
-add_core = MEJ
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = iron
 life_rating = 35
-#terrain = durango
+ 

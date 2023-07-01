@@ -1,0 +1,2 @@
+ trade_goods = ivory
+life_rating = 32

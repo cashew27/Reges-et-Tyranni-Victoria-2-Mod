@@ -1,0 +1,4 @@
+ 
+ trade_goods = sulphur
+ life_rating = 31
+naval_base = 1

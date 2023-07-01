@@ -3,4 +3,4 @@ controller = NAV
 add_core = NAV
 trade_goods = fruit
 life_rating = 35
-##terrain = pamplona
+ 

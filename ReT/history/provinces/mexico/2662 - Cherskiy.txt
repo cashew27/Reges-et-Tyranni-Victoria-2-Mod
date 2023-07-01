@@ -1,4 +1,4 @@
-owner = MEJ
-controller = MEJ
-add_core = MEJ
+owner = MEX
+controller = MEX
+add_core = MEX
 life_rating = 35

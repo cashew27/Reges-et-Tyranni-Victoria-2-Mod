@@ -1,5 +1,6 @@
 name = "Reges et Tyranni"
 path = "mod/ReT"
 user_dir = "ReT"
+replace_path = "common"
 replace_path = "events"
 replace_path = "decisions"

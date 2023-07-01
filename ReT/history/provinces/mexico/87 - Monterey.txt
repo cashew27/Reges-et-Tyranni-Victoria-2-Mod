@@ -1,8 +1,7 @@
-owner = MEJ
-controller = MEJ
-add_core = MEJ
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = fish
 life_rating = 35
-#terrain = montecali
-colonial = 2
+ colonial = 2
 naval_base = 1

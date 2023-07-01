@@ -1,0 +1,3 @@
+ colonial = 2
+trade_goods = coal
+life_rating = 31

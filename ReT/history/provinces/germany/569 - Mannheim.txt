@@ -1,6 +1,6 @@
-owner = BAY
-controller = BAY
-add_core = BAY
+owner = BAV
+controller = BAV
+add_core = BAV
 trade_goods = tobacco
 life_rating = 40
-#terrain = mannheim
+ 

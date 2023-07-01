@@ -1,7 +1,7 @@
-owner = MEJ
-controller = MEJ
-add_core = MEJ
+owner = MEX
+controller = MEX
+add_core = MEX
 naval_base = 1 #Historical main port for the trade network between Mexico and The Philippines
 trade_goods = grain
 life_rating = 35
-#terrain = acapulco
+ 
