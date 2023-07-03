@@ -27,7 +27,7 @@ TOU		= "countries/Toulouse.txt"
 
 # Germany
 AUS		= "countries/Austria.txt"
-BAY		= "countries/Bavaria.txt"
+BAV		= "countries/Bavaria.txt"
 BRA		= "countries/Brunswick.txt"
 BRN		= "countries/Brandenburg.txt"
 FRM		= "countries/Frankfurt.txt"
