@@ -1,6 +1,6 @@
-owner = 
-controller = 
-add_core = 
+owner = KHM
+controller = KHM
+add_core = KHM
 trade_goods = fish
 life_rating = 40
 naval_base = 1

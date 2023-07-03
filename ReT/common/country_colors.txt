@@ -14,6 +14,13 @@ KOJ = {
     color3= { 193 26 14  }
 }
 
+#Kingdom of Khemet
+KHM = {
+    color1= { 48  62  232 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
 #Armenian Kingdom of Clicia
 KOJ = {
     color1= { 229  97  16 }

@@ -1,4 +1,6 @@
- 
+owner = KHM
+controller = KHM
+add_core = KHM 
 trade_goods = grain
 life_rating = 40
  
