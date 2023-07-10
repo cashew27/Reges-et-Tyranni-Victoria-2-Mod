@@ -67,6 +67,7 @@ POA		="countries/Principality of Antioch.txt"
 # India
 
 # Eastern Asia
+YUA		="countries/Yuan Dynasty.txt"
 
 # North America
 MEX		="countries/Mexican Republic.txt"
