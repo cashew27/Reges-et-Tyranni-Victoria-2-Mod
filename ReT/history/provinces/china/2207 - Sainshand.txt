@@ -1,2 +1,5 @@
-  trade_goods = grain
+owner = YUA
+controller = YUA
+add_core = YUA
+trade_goods = grain
 life_rating = 32

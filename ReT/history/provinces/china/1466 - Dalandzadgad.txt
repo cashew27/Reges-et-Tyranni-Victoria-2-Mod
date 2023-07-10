@@ -1,2 +1,5 @@
-  trade_goods = wool
+owner = YUA
+controller = YUA
+add_core = YUA
+trade_goods = wool
 life_rating = 32

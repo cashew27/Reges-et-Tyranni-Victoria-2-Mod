@@ -1,3 +1,6 @@
-  trade_goods = cotton
+owner = YUA
+controller = YUA
+add_core = YUA
+trade_goods = cotton
 life_rating = 32
  

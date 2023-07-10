@@ -1,3 +1,6 @@
-  trade_goods = sulphur
+owner = YUA
+controller = YUA
+add_core = YUA
+trade_goods = sulphur
 life_rating = 32
  
