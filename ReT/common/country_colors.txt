@@ -1,5 +1,12 @@
 # Country unit colors
 
+#Yuan Dynasty
+YUA = {
+    color1= { 178  12  24 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
 #Alpine Federation
 ALP = {
     color1= { 226  222  225 }
