@@ -26,6 +26,7 @@ SRH		= "countries/SouthRhineland.txt"
 TOU		= "countries/Toulouse.txt"
 
 # Germany
+ALP		= "countries/Alpine Federation.txt"
 AUS		= "countries/Austria.txt"
 BAV		= "countries/Bavaria.txt"
 BRA		= "countries/Brunswick.txt"
