@@ -68,6 +68,7 @@ POA		="countries/Principality of Antioch.txt"
 
 # Eastern Asia
 YUA		="countries/Yuan Dynasty.txt"
+QIN		="countries/Qinghai.txt"
 
 # North America
 MEX		="countries/Mexican Republic.txt"
